@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<widget id="com.richpolis.workshop" version="0.0.1" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+    <name>Workshop</name>
+    <description>
+       Mi primera aplicacion en cordova.
+    </description>
+    <author email="richpolis@gmail.com" href="http://richpolis.interactivalley.com">
+        Richpolis Systems
+    </author>
+    <content src="index.html" />
+    <access origin="*" />
+</widget>
